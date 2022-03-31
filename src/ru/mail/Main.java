@@ -8,4 +8,8 @@ public class Main {
         System.out.println("Another Line");
         System.out.println("Hello, qa.guru!");
     }
+    
+    public static void another () {
+        System.out.println("another method");
+    }
 }

@@ -9,4 +9,8 @@ public class Main {
         System.out.println("Hello, qa.guru!");
         System.out.println("slow branch");
     }
+    
+    public static void another () {
+        System.out.println("another method");
+    }
 }
